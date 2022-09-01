@@ -1,6 +1,6 @@
 
 
-Thanks goes to these wonderful people:
+### Top 3 contributors:
 
 <!-- TOP-CONTRIBUTORS-LIST:START - 
 <!-- prettier-ignore -->

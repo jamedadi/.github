@@ -13,7 +13,7 @@
 
 <td align="center"><a href="https://github.com/PEMIDI"><img src="https://avatars.githubusercontent.com/u/19213272?v=4" width="200px;" alt="Peyman Rashidi | Pemidi"/><br /><b>Peyman Rashidi | PEMIDI</b></a><br /><a href="https://github.com/PEMIDI" </a><br><sub>Software Engineer at Ostadkar</b></td>
 
-<td align="center"><a href="https://github.com/EngRobot33"><img src="https://avatars.githubusercontent.com/u/74541595?v=4" width="200px;" alt="Hamed Khosravi"/><br /><b>Hamed Khosravi</b></a><br /><a href="https://github.com/EngRobot33" </a><br><sub>Software Engineer at Shaya</b></td>
+<td align="center"><a href="https://github.com/EngRobot33"><img src="https://avatars.githubusercontent.com/u/74541595?v=4" width="200px;" alt="Hamed Khosravi"/><br /><b>Hamed Khosravi</b></a><br /><a href="https://github.com/EngRobot33" </a><br><sub>Software Engineer at Achareh</b></td>
 
 </tr></table>
 

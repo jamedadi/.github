@@ -42,7 +42,7 @@
       <br /><b>Zahra Jamshidi</b>
     </a>
     <br />
-    <b>Software Engineer at Snapp</b>
+    <b>Software Engineer at Snapp!</b>
   </td>
 </tr>
 </table>

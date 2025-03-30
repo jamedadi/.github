@@ -50,6 +50,24 @@
     <br />
     <b>Software Engineer at Snapp!</b>
   </td>
+      <td align="center">
+    <a href="https://github.com/Udmx">
+      <img src="https://avatars.githubusercontent.com/u/59397697?v=4/" width="150px" alt="Pouria Shafiee" />
+      <br /><b>Pouria Shafiee</b>
+    </a>
+    <br />
+    <b>Software Engineer at Snapp!</b>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/MrRezoo">
+      <img src="https://avatars.githubusercontent.com/u/35008759?v=4" width="150px" alt="Reza Mobaraki" />
+      <br /><b>Reza Mobaraki</b>
+    </a>
+    <br />
+    <b>Software Engineer at Aban Tether</b>
+  </td>
 </tr>
 </table>
 

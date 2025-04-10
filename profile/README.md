@@ -1,5 +1,28 @@
-# JaMedadi
-### Core Members:
+# JaMedadi — Best Iranian Open Source Team for Python Projects
+
+JaMedadi is an Iranian open-source team focused on building minimal, real-world Python clones inspired by top Iranian startups.
+
+Our mission is simple:
+> Help Iranian developers learn backend engineering by studying clean, real project structures — built by Iranian developers, for Iranian developers.
+
+We believe practical coding is the fastest way to level up your skills.
+
+---
+
+## Why JaMedadi?
+
+- Open source with ❤️ from Iran.
+- Minimal and clean Python projects.
+- Inspired by successful Iranian startups.
+- Educational, real-world codebases.
+- Focused on backend engineering.
+
+We want JaMedadi to become the go-to open-source resource for Iranian backend developers.
+
+
+---
+
+## Core Members
 
 <!-- TOP-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->
@@ -71,22 +94,32 @@
 </tr>
 </table>
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<br />
-
-Welcome to **JaMedadi**! We are a dedicated team of passionate individuals working together to create and develop enterprise software for free, all within the open-source community.
 
 ---
 
-## Our Goal
+## Connect with Us
 
-At **JaMedadi**, our primary goal is to provide high-quality enterprise software solutions that are accessible to everyone. We firmly believe in the power of open-source collaboration, and we are committed to leveraging this community-driven approach to build robust and innovative software.
+Stay tuned for more open-source projects and contributions from the Iranian developer community.
 
-## What We Offer
+Follow JaMedadi on [LinkedIn](https://ir.linkedin.com/company/jamedadi)
 
-- **Free Enterprise Software:** We understand that the cost of enterprise software can be prohibitive for many organizations. That's why we strive to create open-source solutions that can be freely utilized by businesses, regardless of their size or budget.
+---
 
-- **Continuous Development:** Our team is dedicated to ongoing development and improvement of our software. We actively seek feedback from the community to identify areas for enhancement and work diligently to implement new features, fix bugs, and ensure optimal performance.
+## Contribution
 
-- **Community Collaboration:** We believe that the collective knowledge and experience of the open-source community can drive remarkable advancements in software development. We actively encourage contributions from developers worldwide, fostering a collaborative environment where ideas are shared, challenges are overcome, and innovation thrives.
+We welcome contributors who share our passion.
+
+- Fork
+- Code
+- Pull Request
+- Help us grow the Iranian open-source ecosystem ❤️
+
+---
+
+## License
+
+MIT License — Free to use, modify, and share.
+
+---
+
+> Proudly crafted by Iranian backend engineers 🇮🇷
